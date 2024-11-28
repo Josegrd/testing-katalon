@@ -23,3 +23,5 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://dev.premium.enigmacamp.com/')
 
+WebUI.click(findTestObject(null))
+
